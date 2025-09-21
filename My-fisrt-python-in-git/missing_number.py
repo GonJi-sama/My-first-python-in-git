@@ -1,3 +1,5 @@
+# Find the missing number in an array containing n distinct numbers taken from 0, 1, 2, ..., n.
+
 nums = [8, 6, 4, 2, 3, 5, 7, 0, 1] # Example input
 
 n = len(nums) # Since one number is missing, the length of nums is n
